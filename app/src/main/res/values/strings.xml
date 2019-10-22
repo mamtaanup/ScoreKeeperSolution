@@ -5,4 +5,7 @@
     <string name="teamB_title_string">Team B</string>
     <string name="increase_string">+</string>
     <string name="decrease_string">-</string>
+    <string name="radiobutton">1 pt</string>
+    <string name="radiobutton1">2 pt</string>
+    <string name="radiobutton2">3 pt</string>
 </resources>
